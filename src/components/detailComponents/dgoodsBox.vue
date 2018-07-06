@@ -4,7 +4,7 @@
 			<img :src="arr.imgurl" alt="" />
 		</div>
 		<div class="dataBox">
-			<h2 v-text="arr.title"></h2>
+			<h2 v-text="arr.title==''?arr.content:arr.title"></h2>
 			<p v-text="arr.now_price"></p>
 			<a class="comment">
 				25万+评论[<span>99%</span>好评]
@@ -36,7 +36,7 @@
 </template>
 
 <script>
-
+	import $ from 'jquery';
 	export default {
 		data(){
 			return{
@@ -46,11 +46,13 @@
 		computed: {		
 			takeData() {
 				var self = this;
-				var readId = localStorage.getItem('idx') 
-				console.log(readId)
-				self.arr = JSON.parse(readId)
-
-
+				var readId = localStorage.getItem('idx');
+				console.log(readId);
+				
+				var data = JSON.parse(readId);
+				data.now_price = (data.now_price).slice(0,1) != '￥'?'￥'+data.now_price : data.now_price;
+				self.arr = data;
+				
 //				bus.$on('sendData',(data)=>{
 //					console.log(456)
 //					console.log(data)
@@ -70,17 +72,14 @@
 <style>
 	.goodsShow{
 		background-color: #f5f5f5;
-		
-		
 	}
 	.imgBox {
 		width: 100%;
 		border-bottom:1px solid #EFD7FF;
-	
 	}
 	
 	.imgBox>img {
-		height: 376px;
+		height: 283px;
 		width: 100%;
 	}
 	

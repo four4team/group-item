@@ -41,10 +41,12 @@
 			return {
 				kind_top: [{
 					imgurl: 'https://img20.360buyimg.com/img/jfs/t16420/274/631248429/7657/80b128e6/5a38d7dfN90f674dc.png',
-					title: '1号团'
+					title: '1号团',
+					router: '#/yiHaoTuan'
 				}, {
 					imgurl: 'https://img30.360buyimg.com/img/jfs/t15505/354/642029247/8206/12023bdd/5a38d322N9c3d0987.png',
-					title: '饮食宝箱'
+					title: '饮食宝箱',
+					router: '#/diet'
 				}, {
 					imgurl: 'https://img20.360buyimg.com/img/jfs/t15613/227/656860313/8652/854bc1d4/5a38d862Nc1600652.png',
 					title: '1号榜单'

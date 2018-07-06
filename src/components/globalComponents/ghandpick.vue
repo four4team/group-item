@@ -46,8 +46,8 @@
 		},
 		methods: {
 			toDetail(index) {
-								//点击传参到详情页		
-							 localStorage.setItem('idx' ,JSON.stringify(this.data[index]))
+				//点击传参到详情页		
+				localStorage.setItem('idx' ,JSON.stringify(this.data[index]))
 			}
 		}
 

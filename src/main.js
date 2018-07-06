@@ -3,11 +3,13 @@
 import Vue from 'vue'
 import router from './router'
 import Vuex from 'vuex'
+
 //import MuseUI from 'muse-ui'
 //import 'muse-ui/dist/muse-ui.css'
 //引入mini-ui
 import MintUI from 'mint-ui'
 import 'mint-ui/lib/style.css'
+import 'weui';
 
 //Vue.use(MuseUI);
 Vue.config.productionTip = false
@@ -25,9 +27,12 @@ const store = new Vuex.Store({
 		allPrice: '￥0.00',
 		allNum: 0,
 		isAllSelect: [],
-		good: {}
+		good: {},
+		attrVal: '',
+		sort: ''
 	}
 })
+
 new Vue({
   el: '#app',
   router,
