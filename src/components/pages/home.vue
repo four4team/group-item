@@ -4,7 +4,7 @@
 		<xheader />
 		<xbanner />
 		<div id="nav_icon_original" class="touchweb_components-headerMenu" style="display: flex;flex-wrap: wrap;">
-			<a class="item J_ping" v-for="(value,key) in kind_top" :data-index="key" style="flex: 20%;">
+			<a class="item J_ping" v-for="(value,key) in kind_top" :data-index="key" style="flex: 20%;" :href="value.router">
 				<div class="icon_box">
 					<div class="pic" style="background-image: none;">
 						<img :alt="value.title" class="tupian" :src="value.imgurl">
@@ -53,7 +53,8 @@
 					title: '1号生鲜'
 				}, {
 					imgurl: 'https://img30.360buyimg.com/img/jfs/t16324/101/575926154/7859/1660b0bb/5a38d895Nc96d57c9.png',
-					title: '全球进口'
+					title: '全球进口',
+					router:'#/global'
 				}, {
 					imgurl: 'https://img14.360buyimg.com/img/jfs/t14197/332/762915772/8714/57b00bf1/5a38d8c2N49652758.png',
 					title: '1号闪购'
@@ -62,7 +63,8 @@
 					title: '充值中心'
 				}, {
 					imgurl: 'https://img30.360buyimg.com/img/jfs/t14443/352/809655512/6855/e29f4459/5a38d4cdNa99ac4fc.png',
-					title: '领券中心'
+					title: '领券中心',
+					router:'#/ticket'
 				}, {
 					imgurl: 'https://img20.360buyimg.com/img/jfs/t12691/339/2290211649/10390/b0c5fd84/5a38d509N9ca10fc9.png',
 					title: '领金币'

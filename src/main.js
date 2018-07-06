@@ -24,7 +24,8 @@ const store = new Vuex.Store({
 		showAlert: false,
 		allPrice: '￥0.00',
 		allNum: 0,
-		isAllSelect: []
+		isAllSelect: [],
+		good: {}
 	}
 })
 new Vue({
