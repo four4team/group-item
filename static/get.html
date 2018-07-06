@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<script>
+			var obj={};
+			var obj1=[{name:'cheng',age:19,kind:'shiwu'},{name:'wang',age:18,kind:'shui'}];
+			obj1.forEach(function(item,i){
+				obj[item.kind].push(item);
+			})
+			
+			console.log(obj);
+		</script>
+	</body>
+</html>

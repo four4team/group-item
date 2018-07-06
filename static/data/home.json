@@ -1,0 +1,126 @@
+{
+	"cheep_info": [
+		{
+			"imgurl": "https://img12.360buyimg.com/img/jfs/t23239/157/495237535/11580/d1558c90/5b320e89N376a3abe.jpg",
+			"content": "水饮民生日",
+			"title": "爆款直降",
+			"toPage": "waterbirth"
+		}, {
+			"imgurl": "https://img14.360buyimg.com/img/jfs/t21778/252/1729891595/49252/145658fd/5b345cc8N24fd5db5.jpg",
+			"content": "量贩团",
+			"title": "消暑百合干",
+			"toPage": "massgroup"
+		}, {
+			"imgurl": "https://img13.360buyimg.com/img/jfs/t22393/331/309304820/20184/5ed836a4/5b31ac63N9c531a92.jpg",
+			"content": "1号闪购",
+			"title": "",
+			"toPage": "flashbuy"
+		}, {
+			"imgurl": "https://img30.360buyimg.com/img/jfs/t21466/32/1652293435/10213/23de6ad4/5b309547N09fca2b9.jpg",
+			"content": "新货来了",
+			"title": "美的落地扇",
+			"toPage": "newgoods"
+		}, {
+			"imgurl": "https://img10.360buyimg.com/img/jfs/t21190/175/1692133002/27545/2a9f792/5b333a37Nb8bca642.jpg",
+			"content": "1号榜单",
+			"title": "1元购",
+			"toPage": "flashbuy"
+		}, {
+			"imgurl": "https://img11.360buyimg.com/img/jfs/t23305/194/281530705/21122/b4eb39c0/5b2b04e9N63ad510c.jpg",
+			"content": "充值中心",
+			"title": "越充越省",
+			"toPage": "rank"
+		}
+	],
+	"quanlity_info": [
+		{
+			"imgurl": "https://img30.360buyimg.com/img/jfs/t22615/33/110822906/45567/d1bddc2e/5b25cc6eN0087630f.png",
+			"content": "品质厨房",
+			"title": "618极鲜战",
+			"toPage": "kitchen"
+		}, {
+			"imgurl": "https://img11.360buyimg.com/img/jfs/t21373/244/1690607668/18286/d0359ae/5b321a9dN825a10d5.png",
+			"content": "1号匠造",
+			"title": "硅胶声波洁面仪"
+		}, {
+			"imgurl": "https://img30.360buyimg.com/img/jfs/t20869/287/1666041487/44164/fc8594f2/5b30b760N9d2e2ef2.png",
+			"content": "个人护理",
+			"title": "满199减100"
+		}, {
+			"imgurl": "https://img14.360buyimg.com/img/jfs/t22201/189/1711456707/40434/476893b7/5b32225cN93ea7787.png",
+			"content": "母婴玩具",
+			"title": "爆款直降"
+		}, {
+			"imgurl": "https://img11.360buyimg.com/img/jfs/t20941/305/1741691716/49234/831956dd/5b30bc01N26e0879e.png",
+			"content": "生鲜馆",
+			"title": "爆款直降"
+		}, {
+			"imgurl": "https://img30.360buyimg.com/img/jfs/t21145/45/1654926032/32337/28ae0ac5/5b30b436N9877b5e2.png",
+			"content": "美妆馆",
+			"title": "满199减100"
+		}, {
+			"imgurl": "https://img11.360buyimg.com/img/jfs/t24559/83/496073640/35199/5234a744/5b31e938Ncf86b277.png",
+			"content": "进口食品",
+			"title": "每满99减50"
+		}
+	],
+	"center_info": [
+		{
+			"imgurl": "https://img20.360buyimg.com/img/jfs/t20437/216/1793556862/33359/693c42e2/5b34e7a0Nde550a6b.png",
+			"content": "小龙虾品类日",
+			"title": "满199减100"
+		}, {
+			"imgurl": "https://img20.360buyimg.com/img/jfs/t23104/2/555324935/23344/57049800/5b353a77N9db9d24e.png",
+			"content": "佳沛超级品类日",
+			"title": "金果单颗低至4.9"
+		}, {
+			"imgurl": "https://img13.360buyimg.com/img/jfs/t21640/300/1731644920/44700/8dcbeeda/5b30d741Naae1bd80.png",
+			"content": "国产食品",
+			"title": "直降/满减"
+		}, {
+			"imgurl": "https://img13.360buyimg.com/img/jfs/t21547/331/1677166677/44660/977dc58/5b31f3a9N4220c53e.png",
+			"content": "酒水饮料",
+			"title": "爆款直降"
+		}, {
+			"imgurl": "https://img11.360buyimg.com/img/jfs/t20620/117/1680349320/20966/54a67166/5b31fe34N381b54c6.png",
+			"content": "厨卫清洁",
+			"title": "爆款直降"
+		}, {
+			"imgurl": "https://img13.360buyimg.com/img/jfs/t20344/280/1727252715/24922/b08b737f/5b30b6a3Ndd949873.png",
+			"content": "欧莱雅",
+			"title": "满199减60"
+		}, {
+			"imgurl": "https://img13.360buyimg.com/img/jfs/t21439/143/1721407687/27773/2be9ad04/5b30b7d0N4d45e91b.png",
+			"content": "妮维雅",
+			"title": "每满159减60"
+		}, {
+			"imgurl": "https://img14.360buyimg.com/img/jfs/t22843/354/463975140/23923/86e251f2/5b30b9a9N08958662.png",
+			"content": "OLAY",
+			"title": "满199减100"
+		}, {
+			"imgurl": "https://img13.360buyimg.com/img/jfs/t23329/130/471457242/42114/c5a825a2/5b319ac4Na7f0e35a.png",
+			"content": "海尔",
+			"title": "套购满赠投影仪"
+		}, {
+			"imgurl": "https://img14.360buyimg.com/img/jfs/t21178/93/1689163537/16137/35e74387/5b321412Ndc64cb58.png",
+			"content": "飞利浦",
+			"title": "爆款直降 买一赠一"
+		}, {
+			"imgurl": "https://img20.360buyimg.com/img/jfs/t23335/120/477558863/46610/79b5899f/5b319902N083ed17a.png",
+			"content": "美的",
+			"title": "满千减百"
+		}, {
+			"imgurl": "https://img20.360buyimg.com/img/jfs/t24094/45/478035522/39017/a7639900/5b319c1fN6e1c7182.png",
+			"content": "荣耀",
+			"title": "爆品直降"
+		}, {
+			"imgurl": "https://img11.360buyimg.com/img/jfs/t22957/162/486456477/19500/f9adae95/5b31f8cbN15dd7666.png",
+			"content": "小米",
+			"title": "满500减50"
+		}, {
+			"imgurl": "https://img20.360buyimg.com/img/jfs/t21364/260/1690577121/46005/8b1ce981/5b319f32Nce6c364b.png",
+			"content": "360",
+			"title": "满1000减200"
+		}
+	]
+}
